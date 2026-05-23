@@ -7,6 +7,15 @@
 # Context
 Hi! This is a project I've decided to build that aims to be my first project for the Fallout Program run by Hack Club. I've learnt to create a pcb for the first time, used new software (I used EasyEda) and learnt the way in which pcb's are properly designed, and not properly designed. For example, when using data connectors, DO NOT use the auto-routing tool. It took away from both the fun and the actual working function of the circuit board. Also, AI sucks to check pcbs. Either I'm not understanding something properly, or it sucks. I decide to choose that it sucks. I'll ask for a sanity-check in fallout through slack.
 
+# How to make
+1. Order the PCB (from somewhere like JLCPCB)
+   OR
+   Cut it out with a CNC
+   Both with the Gerber folder provided
+2. 3D Print the casing from the CAD file provided
+3. Ensure you have the right Screws and Nuts as listed in the BOM (easy and cheap to order from Aliexpress)
+4. Put it together! Screw in the screws and fasten the nuts to keep it together! You should now be able to plug it in.
+
 # CAD Design
 Note-to-self, use tinkercad for simplicity. Still need to complete. Use multiple images.
 <img width="1011" height="621" alt="Screenshot 2026-04-28 at 10 54 51 pm" src="https://github.com/user-attachments/assets/dc3df69b-cb61-4c2e-afd9-ce8307952ecc" />
