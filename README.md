@@ -36,10 +36,14 @@ Input:
 - 1x Usb-C
 
 # BOM
-Note-to-self grab from EasyEda. Include tools and machines used as well. Also include small things used, so screws, glue, etc.
-4 Screws Will Definitely be used.
-A 3D Printer at school will likely be used.
-Soldering of the extra 3 boards will likely be at school due to better equipment than at home. I chose to get the extra boards and solder them myself to build my skills, and also think it would be fun.
+All in AUD
+
+No.|Item|  Description  | Requested Qty |Min Order Qty|Unit Price|Total Price|Running Total| Link
+---|----|---------------|---------------|-------------|----------|-----------|-------------|------
+ 1 | PCB| Circuit Board |       1       |      5      |   $4.3  |   $21.30  |    $21.30 | N/A
+ 2 | 3D Printer| Bambu X1C AVAILABLE AT SCHOOL | 1 | --- | --- | --- | $21.30 | N/A
+ 3 | Screws | M2x18mm | 4 | 25 | $0.06 | $3.70 | $25.00 |https://www.aliexpress.com/item/1005005841287178.html?src=google&src=google&albch=shopping&acnt=179-224-6891&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=_oFgTQeV&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005005841287178&ds_e_product_merchant_id=107907811&ds_e_product_country=AU&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=23109426145&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=23109428320&gbraid=0AAAABBR8xId8V1CaMwpJNadhfpnStSTf4&gclid=Cj0KCQjwoMXQBhDcARIsAH-eEtt8P-ByHrxdFp6WYVdqjZv07RoKa5KXCZU_p0B7Su_xA6ctL3eb8h8aApRpEALw_wcB 
+ 4 | Nuts | M2 | 4 | 25 | $0.06 | $3.71 | $28.71 | https://www.aliexpress.com/item/32988995881.html?spm=a2g0o.productlist.main.1.68a733d4BXz6UR&algo_pvid=2115fbf9-60f4-46f9-a87d-f6827d534282&algo_exp_id=2115fbf9-60f4-46f9-a87d-f6827d534282-0&pdp_ext_f=%7B%22order%22%3A%225324%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21AUD%212.52%211.41%21%21%211.77%210.99%21%40210311a017795282089784201e4b31%2166897480663%21sea%21AU%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A8bcdc914%3Bm03_new_user%3A-29895%3BpisId%3A5000000204867275&curPageLogUid=6GkJlTjxoej9&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32988995881%7C_p_origin_prod%3A#nav-description
 
 # Additional Notes
 Guided project through Hack Club's Fallout Docs. Was incredible fun and would definitely recommend to others for starter project!
