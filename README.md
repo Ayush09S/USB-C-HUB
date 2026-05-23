@@ -65,3 +65,5 @@ Guided project through Hack Club's Fallout Docs. Was incredible fun and would de
 For Github page inspo:
 https://github.com/daaminashai/mhmhub
 https://github.com/geg-tech/biblicallyaccuratekeyboard
+
+Being Sanity Checked by Kade Harrison
