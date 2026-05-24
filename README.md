@@ -18,7 +18,9 @@ Hi! This is a project I've decided to build that aims to be my first project for
 
 # CAD Design
 [3D Model Link](https://www.tinkercad.com/things/iXwvS4zWunM-fallout-usbchub-0141/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=bqnStvKRPx-9XexWzPTVLKqpx-H6kgi8xulUIlZh3LI)
+
 [Seperated Shell Link](https://www.tinkercad.com/things/ja8qBjr5oFy-fallout-usbchub-015/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=TzauYCkqkt3u7_o1TPTBhawL_4Y5lG6Gesg5k2mBz0k)
+
 <img width="1011" height="621" alt="Screenshot 2026-04-28 at 10 54 51 pm" src="https://github.com/user-attachments/assets/dc3df69b-cb61-4c2e-afd9-ce8307952ecc" />
 <img width="1019" height="731" alt="Screenshot 2026-04-28 at 10 54 32 pm" src="https://github.com/user-attachments/assets/77f7b112-7345-46ca-8f23-8b4584331d4c" />
 <img width="1202" height="743" alt="Screenshot 2026-04-28 at 10 56 06 pm" src="https://github.com/user-attachments/assets/a05ba10f-ec37-4df1-b3fb-fe20ff38f8df" />
