@@ -10,7 +10,7 @@ Hi! This is a project I've decided to build that aims to be my first project for
 # How to make
 1. Order the PCB (from somewhere like JLCPCB)
    OR
-   Cut it out with a CNC
+   Cut it out with a CNC (When soldering refer to the "InteractiveBOM.html" for placement)
    Both with the Gerber folder provided (I prefer ordering as you don't need to worry about the soldering)
 2. 3D Print the casing from the CAD file provided
 3. Ensure you have the right Screws and Nuts as listed in the BOM (easy and cheap to order from Aliexpress)
