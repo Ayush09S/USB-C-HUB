@@ -1,8 +1,7 @@
 # USB-C-HUB
 
 # Zine!
-<img width="410" height="622" alt="Screenshot 2026-05-24 at 5 28 11 pm" src="https://github.com/user-attachments/assets/54d20825-7d20-401e-818a-62de17aa7039" />
-
+<img width="539" height="827" alt="Zine" src="https://github.com/user-attachments/assets/b28ebfa0-7fbd-4ebe-987c-b9df90af4e0a" />
 
 # Context
 Hi! This is a project I've decided to build that aims to be my first project for the Fallout Program run by Hack Club. I've learnt to create a pcb for the first time, used new software (I used EasyEda) and learnt the way in which pcb's are properly designed, and not properly designed. For example, when using data connectors, DO NOT use the auto-routing tool. It took away from both the fun and the actual working function of the circuit board. Also, AI sucks to check pcbs. Either I'm not understanding something properly, or it sucks. I decide to choose that it sucks. I'll ask for a sanity-check in fallout through slack.
