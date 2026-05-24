@@ -66,4 +66,4 @@ For Github page inspo:
 https://github.com/daaminashai/mhmhub
 https://github.com/geg-tech/biblicallyaccuratekeyboard
 
-Being Sanity Checked by Kade Harrison
+Sanity Checked by Kade Harrison
