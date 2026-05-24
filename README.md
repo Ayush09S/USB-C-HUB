@@ -1,7 +1,7 @@
 # USB-C-HUB
 
 # Zine!
-<img width="539" height="827" alt="Zine" src="https://github.com/user-attachments/assets/cdfe5cda-1033-445f-84db-ef13a4d7ea3b" />
+<img width="410" height="622" alt="Screenshot 2026-05-24 at 5 28 11 pm" src="https://github.com/user-attachments/assets/54d20825-7d20-401e-818a-62de17aa7039" />
 
 
 # Context
