@@ -29,6 +29,9 @@ ESD PROTECTION BUILT-IN!
 4. Put it together! Screw in the screws and fasten the nuts to keep it together! You should now be able to plug it in.
 
 # Design
+
+[Onshape Link](https://cad.onshape.com/documents/284e629cfe03efad6c638612/w/c0b9332658f42af451ce0795/e/51ee38e5fe6a7fd8f287baf6?renderMode=0&uiState=6a26b8b79966184414497330)
+
 ## Schematic
 
 <img width="1304" height="922" alt="Screenshot 2026-06-08 at 6 02 38 pm" src="https://github.com/user-attachments/assets/b6546111-6cd5-45f3-9e9b-d5453e29e4d9" />
