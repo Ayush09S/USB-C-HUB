@@ -5,7 +5,7 @@ A custom built USB Hub with 2 USB-A and 2 USB-C outputs with a 3D Printable casi
 [<img width="539" height="827" alt="Zine" src="https://github.com/user-attachments/assets/893d5fde-61a3-4be8-8bc0-1a740a8d45c1" />](https://github.com/Ayush09S/USB-C-HUB/blob/808a75b1dda093e235863a09848367ffdb58ef89/Zine.pdf)
 
 # Context
-Hi! This is a project I've decided to build that aims to be my first project for the Fallout Program run by Hack Club. I've learnt to create a pcb for the first time, used new software (I used EasyEda) and learnt the way in which pcb's are properly designed, and not properly designed. For example, when using data connectors, DO NOT use the auto-routing tool. It took away from both the fun and the actual working function of the circuit board. Also, AI sucks to check pcbs. Either I'm not understanding something properly, or it sucks. I decide to choose that it sucks. I'll ask for a sanity-check in fallout through slack. It is unique by the awesome silkscreen images added and the 3D Enclosure.
+Hi! This is a project I've decided to build that aims to be my first project for the Fallout Program run by Hack Club. I've learnt to create a pcb for the first time, used new software (I used EasyEda) and learnt the way in which pcb's are properly designed, and not properly designed. For example, when using data connectors, DO NOT use the auto-routing tool. It took away from both the fun and the actual working function of the circuit board. Also, AI sucks to check pcbs. Either I'm not understanding something properly, or it sucks. I decide to choose that it sucks. It is unique by the awesome silkscreen images added and the 3D Enclosure.
 
 # Specs
 4 Outputs, 1 Input
@@ -17,6 +17,8 @@ Output:
 Input:
 - 1x Usb-C
 
+ESD PROTECTION BUILT-IN!
+
 # How to make
 1. Order the PCB (from somewhere like JLCPCB)
    OR
@@ -26,24 +28,24 @@ Input:
 3. Ensure you have the right Screws and Nuts as listed in the BOM (easy and cheap to order from Aliexpress)
 4. Put it together! Screw in the screws and fasten the nuts to keep it together! You should now be able to plug it in.
 
-# CAD Design
-[3D Model Link](https://www.tinkercad.com/things/iXwvS4zWunM-fallout-usbchub-0141/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=bqnStvKRPx-9XexWzPTVLKqpx-H6kgi8xulUIlZh3LI)
+# Design
+## Schematic
 
-[Seperated Shell Link](https://www.tinkercad.com/things/ja8qBjr5oFy-fallout-usbchub-015/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=TzauYCkqkt3u7_o1TPTBhawL_4Y5lG6Gesg5k2mBz0k)
+<img width="1304" height="922" alt="Screenshot 2026-06-08 at 6 02 38 pm" src="https://github.com/user-attachments/assets/b6546111-6cd5-45f3-9e9b-d5453e29e4d9" />
 
-<img width="1011" height="621" alt="Screenshot 2026-04-28 at 10 54 51 pm" src="https://github.com/user-attachments/assets/dc3df69b-cb61-4c2e-afd9-ce8307952ecc" />
-<img width="1019" height="731" alt="Screenshot 2026-04-28 at 10 54 32 pm" src="https://github.com/user-attachments/assets/77f7b112-7345-46ca-8f23-8b4584331d4c" />
-<img width="1202" height="743" alt="Screenshot 2026-04-28 at 10 56 06 pm" src="https://github.com/user-attachments/assets/a05ba10f-ec37-4df1-b3fb-fe20ff38f8df" />
-<img width="988" height="709" alt="Screenshot 2026-04-28 at 10 55 16 pm" src="https://github.com/user-attachments/assets/2add7911-f07c-41a6-8499-2c8dfe5fc5d6" />
-<img width="1268" height="648" alt="Screenshot 2026-04-28 at 10 56 24 pm" src="https://github.com/user-attachments/assets/dc9ddc63-3fbc-476d-a2c4-490b3dbb62a3" />
+## PCB
 
-# PCB
-<img width="1406" height="990" alt="Screenshot 2026-04-28 at 11 07 24 pm" src="https://github.com/user-attachments/assets/44a73554-0ded-4b66-b3e7-61b9e3eaa50f" />
-<img width="1013" height="974" alt="Screenshot 2026-04-28 at 11 08 53 pm" src="https://github.com/user-attachments/assets/1922add0-4523-48ff-b9ad-f23f873c4aa9" />
-<img width="970" height="964" alt="Screenshot 2026-04-28 at 11 09 34 pm" src="https://github.com/user-attachments/assets/f73ec0dc-aa16-4d2d-afbf-97081f8f9f19" />
-<img width="1081" height="1065" alt="Screenshot 2026-04-28 at 11 29 54 pm" src="https://github.com/user-attachments/assets/91d88718-7bd8-4466-ae02-511035528a46" />
-<img width="1281" height="1112" alt="Screenshot 2026-04-28 at 11 15 20 pm" src="https://github.com/user-attachments/assets/e419b179-a7fd-492e-a177-c3884ecca9e4" />
+<img width="829" height="851" alt="Screenshot 2026-06-08 at 6 01 14 pm" src="https://github.com/user-attachments/assets/6dff426c-7366-4043-bda5-71dc8caf9e87" />
+
 *(I'd suggest black for the pcb build color to really make the custom silkscreen art pop!)*
+
+## CAD of Casing
+
+<img width="1156" height="559" alt="Screenshot 2026-06-08 at 5 59 13 pm" src="https://github.com/user-attachments/assets/30e6ae66-f717-4681-af4b-68a15bb3a02c" />
+
+<img width="1355" height="419" alt="Screenshot 2026-06-08 at 5 59 56 pm" src="https://github.com/user-attachments/assets/d117b79b-59c6-4164-be08-8dbb32bde983" />
+
+<img width="1222" height="707" alt="Screenshot 2026-06-08 at 6 00 56 pm" src="https://github.com/user-attachments/assets/1a6dac60-b6d2-438c-8e21-6f52ccccb718" />
 
 # BOM (All in AUD)
 
